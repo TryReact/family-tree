@@ -17,6 +17,6 @@ jobs:
         run: echo Starting the codeowners-plus-plus example run
 
       - name: Run codeowners-plus-plus
-        uses: anshulsahni/codeowners-plus-plus@dc3512030d75ed27c8f47cb662bd8da554c87e9d
+        uses: anshulsahni/codeowners-plus-plus@5bd1a7174ed2728927ceede8179faf5089f2f7da
         with:
           token: ${{secrets.GITHUB_TOKEN}}
