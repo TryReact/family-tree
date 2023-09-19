@@ -17,4 +17,4 @@ jobs:
         run: echo Starting the codeowners-plus-plus example run
 
       - name: Run codeowners-plus-plus
-        uses: anshulsahni/codeowners-plus-plus@5bd1a7174ed2728927ceede8179faf5089f2f7da
+        uses: anshulsahni/codeowners-plus-plus@11933c0cb93b6b6be137d34c58a8f331c1ccc188
